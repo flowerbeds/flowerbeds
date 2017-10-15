@@ -1,0 +1,62 @@
+body {
+	background-color: lightsteelblue;
+	color: floralwhite;
+	font-family: "Tahoma", sans-serif;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 40px;
+	
+	}
+	
+a.text:link {
+	color: floralwhite;
+	text-decoration: none;
+}
+
+a.text:visited {
+	color: floralwhite;
+	text-decoration: none;
+}
+
+a.text:hover {
+	color: floralwhite;
+	border: 2px solid floralwhite;
+}
+
+a.text:active {
+	color: lightsteelblue;
+	text-decoration: none;
+}
+
+p{
+	padding:10px
+	}
+	
+.header_div {
+	border: 4px solid floralwhite;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding: 10px;
+	text-align: center;
+	}
+	
+.photo_div {
+	float: right;
+	padding: 10px;
+	}
+	
+.header2_div {
+	margin-left: auto;
+	margin-right: auto;
+	padding:10px;
+	text-align: center;
+	}
+	
+	
+.abcde_div {
+	text-align: center;
+	}
+	
+.pre_div{
+	font-family: "Tahoma", sans-serif;
+}
