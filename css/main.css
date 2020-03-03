@@ -21,8 +21,8 @@ body {
 
 /*Images*/	
 .img {
-	margin-left: 30%;
-	margin-right: 30%;
+	margin-left: auto;
+	margin-right: auto;
 }
 	
 /*Link style*/	
