@@ -37,10 +37,10 @@ body {
   padding: 10px;
 }
 .linkcolumn {
-  width: 40%;
+  width: 50%;
 }
 .imgcolumn {
-  width: 60%;
+  width: 50%;
 }
 .row:after {
   content: "";
