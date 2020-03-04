@@ -19,8 +19,11 @@ body {
 	color: #394d00;
 }
 
-/*Images*/	
+/*Images*/
 .img {
+	
+}
+.center {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
