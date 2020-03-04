@@ -46,13 +46,13 @@ body {
 a:link, a:visited {
     border: 2px solid black;
 	display: block;
+	float: none;
 	color: black;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 	transition-duration: 0.4s;
 	border-radius: 0px;
-	margin: 40px 10px;
 }
 a:hover, a:active {
 	display: block;
