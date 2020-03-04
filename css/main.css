@@ -31,10 +31,14 @@ body {
 }
 
 /*Columns*/
-.twocolumn {
-  float: left;
-  width: 50%;
-  padding: 30px;
+.linkcolumn {
+	float: left;
+	width: 40%;
+	padding-left: 10%;
+}
+.imgcolumn {
+	float: left;
+	width: 60%;
 }
 .row:after {
   content: "";
