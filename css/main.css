@@ -10,9 +10,10 @@ body {
 /* Header/Blog Title */
 .header {
 	padding: 10px;
-	margin: 50px 25%;
+	margin: 30px 25%;
 	text-align: center;
 	background: #f2ffcc;
+	border: 1px solid black;
 }
 
 .header h1 {
