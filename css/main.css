@@ -51,6 +51,7 @@ a:link, a:visited {
 	text-decoration: none;
 	transition-duration: 0.4s;
 	border-radius: 0px;
+	margin: 40px 10px;
 }
 a:hover, a:active {
 	background-color: #ffd6ad;
