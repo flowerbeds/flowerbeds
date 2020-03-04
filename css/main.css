@@ -34,7 +34,7 @@ body {
 .twocolumn {
   float: left;
   width: 50%;
-  padding: 5% 15%;
+  padding: 30px;
 }
 .row:after {
   content: "";
