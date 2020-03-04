@@ -35,7 +35,6 @@ body {
 .linkcolumn {
 	float: left;
 	width: 40%;
-	padding-left: 100px;
 }
 .imgcolumn {
 	float: left;
@@ -52,7 +51,6 @@ a:link, a:visited {
     border: 2px solid black;
 	display: block;
 	float: none;
-	width: 150px;
 	color: black;
 	text-align: center;
 	padding: 14px 16px;
